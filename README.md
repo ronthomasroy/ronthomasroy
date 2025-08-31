@@ -3,4 +3,3 @@
   ![@ronroy00313068 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=ronroy00313068)
 
 
-![](https://komarev.com/ghpvc/?username=ronthomasroy&color=blueviolet)
